@@ -1,0 +1,27 @@
+@{
+    ViewBag.Title = "Basvuru Formu ";
+}
+
+<h1 class="h4 text-center">Toplanti katilim formu</h1>
+<form method="post">
+    <div class="mb-3">
+        <label for="Name" class="form-label">Ad Soyad</label>
+        <input type="text" name="Name" id="Name" class="form-control">
+    </div>
+     <div class="mb-3">
+        <label for="Phone" class="form-label">Telefon</label>
+        <input type="text" name="Phone" id="Phone" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label for="Email" class="form-label">Email</label>
+        <input type="email" name="Email" id="Email" class="form-control">
+    </div>
+    <div class="mb-3">
+        <label for="WillAttend" class="form-label">Katilim Durumu</label>
+        <select name="WillAttend" id="WillAttend" class="form-select">
+            <option value="true">Evet,Geliyorum</option>
+            <option value="false">Hayir,Gelmiyorum</option>
+        </select>
+    </div>
+    <button class="btn btn-primary" type="submit">Kaydet</button>
+</form>

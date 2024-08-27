@@ -23,3 +23,8 @@ C:\Users\hesen\OneDrive\Masaüstü\MeetingApp\obj\Debug\net8.0\refint\MeetingApp
 C:\Users\hesen\OneDrive\Masaüstü\MeetingApp\obj\Debug\net8.0\MeetingApp.pdb
 C:\Users\hesen\OneDrive\Masaüstü\MeetingApp\obj\Debug\net8.0\MeetingApp.genruntimeconfig.cache
 C:\Users\hesen\OneDrive\Masaüstü\MeetingApp\obj\Debug\net8.0\ref\MeetingApp.dll
+C:\Users\hesen\OneDrive\Masaüstü\MeetingApp\obj\Debug\net8.0\MeetingApp.sourcelink.json
+C:\Users\hesen\OneDrive\Masaüstü\MeetingApp\obj\Debug\net8.0\MeetingApp.RazorAssemblyInfo.cache
+C:\Users\hesen\OneDrive\Masaüstü\MeetingApp\obj\Debug\net8.0\MeetingApp.RazorAssemblyInfo.cs
+C:\Users\hesen\OneDrive\Masaüstü\MeetingApp\bin\Debug\net8.0\libman.json
+C:\Users\hesen\OneDrive\Masaüstü\MeetingApp\bin\Debug\net8.0\MeetingApp.staticwebassets.runtime.json
