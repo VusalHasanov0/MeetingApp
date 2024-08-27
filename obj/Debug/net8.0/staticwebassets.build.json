@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "expunOt5FJ04CaP4+yGRTzaMJ4w4Wmi0sLHbWMitALg=",
+  "Hash": "YEFA3C2L3B3lXtzaMi3YR6jY/ciMaadtkOVRmYGsJzU=",
   "Source": "MeetingApp",
   "BasePath": "_content/MeetingApp",
   "Mode": "Default",
@@ -16,6 +16,25 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\hesen\\OneDrive\\Masaüstü\\MeetingApp\\wwwroot\\css\\style.css",
+      "SourceId": "MeetingApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\hesen\\OneDrive\\Masaüstü\\MeetingApp\\wwwroot\\",
+      "BasePath": "_content/MeetingApp",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    },
     {
       "Identity": "C:\\Users\\hesen\\OneDrive\\Masaüstü\\MeetingApp\\wwwroot\\lib\\bootstrap\\css\\bootstrap-grid.css",
       "SourceId": "MeetingApp",
