@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\hesen\\OneDrive\\Masaüstü\\MeetingApp\\MeetingApp.csproj",
+      "projectUniqueName": "C:\\Users\\hesen\\OneDrive\\Masaüstü\\aspnetcore-dersleri\\MeetingApp\\MeetingApp.csproj",
       "projectName": "MeetingApp",
-      "projectPath": "C:\\Users\\hesen\\OneDrive\\Masaüstü\\MeetingApp\\MeetingApp.csproj",
+      "projectPath": "C:\\Users\\hesen\\OneDrive\\Masaüstü\\aspnetcore-dersleri\\MeetingApp\\MeetingApp.csproj",
       "packagesPath": "C:\\Users\\hesen\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\hesen\\OneDrive\\Masaüstü\\MeetingApp\\obj\\",
+      "outputPath": "C:\\Users\\hesen\\OneDrive\\Masaüstü\\aspnetcore-dersleri\\MeetingApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\hesen\\AppData\\Roaming\\NuGet\\NuGet.Config",
